@@ -50,6 +50,10 @@ Needs JDK 17/21 and Android SDK platform 34 (`ANDROID_HOME` set).
 adb install -r app/build/outputs/apk/debug/app-debug.apk
 ```
 
+## License
+
+[MIT](LICENSE).
+
 The painting app itself is described under [Painting app](#painting-app-09).
 Everything below is the original development log.
 
