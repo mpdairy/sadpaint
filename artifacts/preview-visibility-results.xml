@@ -1,0 +1,193 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="#20B0FF">visible</string>
+    <long name="#E0E0FF:time" value="1790235601483" />
+    <string name="#808080">visible</string>
+    <long name="#E020FF:time" value="1790235585331" />
+    <string name="#FF8080:firmware">ONYX/TabBoox/TabBoox:13/TKQ1.230615.001/GV2.029.SQ83A:user/release-keys</string>
+    <string name="#9CBBD6:firmware">ONYX/TabBoox/TabBoox:13/TKQ1.230615.001/GV2.029.SQ83A:user/release-keys</string>
+    <long name="#50B0FF:time" value="1790235546286" />
+    <string name="#80FFFF:firmware">ONYX/TabBoox/TabBoox:13/TKQ1.230615.001/GV2.029.SQ83A:user/release-keys</string>
+    <string name="#5080FF:firmware">ONYX/TabBoox/TabBoox:13/TKQ1.230615.001/GV2.029.SQ83A:user/release-keys</string>
+    <string name="#800000:firmware">ONYX/TabBoox/TabBoox:13/TKQ1.230615.001/GV2.029.SQ83A:user/release-keys</string>
+    <string name="#808000:firmware">ONYX/TabBoox/TabBoox:13/TKQ1.230615.001/GV2.029.SQ83A:user/release-keys</string>
+    <string name="#B080FF">invisible</string>
+    <string name="#0080FF:firmware">ONYX/TabBoox/TabBoox:13/TKQ1.230615.001/GV2.029.SQ83A:user/release-keys</string>
+    <string name="#FF0080:firmware">ONYX/TabBoox/TabBoox:13/TKQ1.230615.001/GV2.029.SQ83A:user/release-keys</string>
+    <string name="#5050FF:firmware">ONYX/TabBoox/TabBoox:13/TKQ1.230615.001/GV2.029.SQ83A:user/release-keys</string>
+    <string name="#50E0FF:firmware">ONYX/TabBoox/TabBoox:13/TKQ1.230615.001/GV2.029.SQ83A:user/release-keys</string>
+    <string name="#2020FF">visible</string>
+    <string name="#800080">visible</string>
+    <string name="#800080:firmware">ONYX/TabBoox/TabBoox:13/TKQ1.230615.001/GV2.029.SQ83A:user/release-keys</string>
+    <string name="#50B0FF:firmware">ONYX/TabBoox/TabBoox:13/TKQ1.230615.001/GV2.029.SQ83A:user/release-keys</string>
+    <long name="#8050FF:time" value="1790235555168" />
+    <string name="#808000">visible</string>
+    <string name="#5080FF">visible</string>
+    <string name="#800000">visible</string>
+    <string name="#0000FF:firmware">ONYX/TabBoox/TabBoox:13/TKQ1.230615.001/GV2.029.SQ83A:user/release-keys</string>
+    <string name="#5020FF:firmware">ONYX/TabBoox/TabBoox:13/TKQ1.230615.001/GV2.029.SQ83A:user/release-keys</string>
+    <string name="#50E0FF">visible</string>
+    <string name="#FF8000:firmware">ONYX/TabBoox/TabBoox:13/TKQ1.230615.001/GV2.029.SQ83A:user/release-keys</string>
+    <long name="#2050FF:time" value="1790235524099" />
+    <string name="#E0E0E0:firmware">ONYX/TabBoox/TabBoox:13/TKQ1.230615.001/GV2.029.SQ83A:user/release-keys</string>
+    <string name="#A0A0A0:firmware">ONYX/TabBoox/TabBoox:13/TKQ1.230615.001/GV2.029.SQ83A:user/release-keys</string>
+    <long name="#FFFF00:time" value="1790235482205" />
+    <string name="#FF0000:firmware">ONYX/TabBoox/TabBoox:13/TKQ1.230615.001/GV2.029.SQ83A:user/release-keys</string>
+    <string name="#5050FF">visible</string>
+    <string name="#9CBBD6">invisible</string>
+    <string name="#FFFFFF:firmware">ONYX/TabBoox/TabBoox:13/TKQ1.230615.001/GV2.029.SQ83A:user/release-keys</string>
+    <long name="#FF0000:time" value="1790235476592" />
+    <string name="#2050FF">visible</string>
+    <long name="#8020FF:time" value="1790235552267" />
+    <string name="#808080:firmware">ONYX/TabBoox/TabBoox:13/TKQ1.230615.001/GV2.029.SQ83A:user/release-keys</string>
+    <long name="#FFFFFF:time" value="1790235490602" />
+    <string name="#20B0FF:firmware">ONYX/TabBoox/TabBoox:13/TKQ1.230615.001/GV2.029.SQ83A:user/release-keys</string>
+    <string name="#20E0FF">visible</string>
+    <long name="#8080FF:time" value="1790235559616" />
+    <string name="#8080FF:firmware">ONYX/TabBoox/TabBoox:13/TKQ1.230615.001/GV2.029.SQ83A:user/release-keys</string>
+    <string name="#80FF00:firmware">ONYX/TabBoox/TabBoox:13/TKQ1.230615.001/GV2.029.SQ83A:user/release-keys</string>
+    <string name="#B0E0FF">invisible</string>
+    <string name="#B050FF:firmware">ONYX/TabBoox/TabBoox:13/TKQ1.230615.001/GV2.029.SQ83A:user/release-keys</string>
+    <string name="#B020FF:firmware">ONYX/TabBoox/TabBoox:13/TKQ1.230615.001/GV2.029.SQ83A:user/release-keys</string>
+    <string name="#FF0080">visible</string>
+    <long name="#FF00FF:time" value="1790235485107" />
+    <long name="#A0A0A0:time" value="1790235509287" />
+    <string name="#00FFFF">visible</string>
+    <string name="#566B78">visible</string>
+    <string name="#E080FF">invisible</string>
+    <long name="#FFFF80:time" value="1790235659436" />
+    <string name="#2080FF">visible</string>
+    <string name="#566B78:firmware">ONYX/TabBoox/TabBoox:13/TKQ1.230615.001/GV2.029.SQ83A:user/release-keys</string>
+    <string name="#008080:firmware">ONYX/TabBoox/TabBoox:13/TKQ1.230615.001/GV2.029.SQ83A:user/release-keys</string>
+    <string name="#80FF00">visible</string>
+    <long name="#B0B0FF:time" value="1790235578983" />
+    <string name="#F8F8F8">visible</string>
+    <string name="#B020FF">visible</string>
+    <string name="#B080FF:firmware">ONYX/TabBoox/TabBoox:13/TKQ1.230615.001/GV2.029.SQ83A:user/release-keys</string>
+    <string name="#8080FF">invisible</string>
+    <string name="#80FF80">invisible</string>
+    <string name="#8000FF">visible</string>
+    <long name="#80FF80:time" value="1790235635500" />
+    <string name="#B0B0FF:firmware">ONYX/TabBoox/TabBoox:13/TKQ1.230615.001/GV2.029.SQ83A:user/release-keys</string>
+    <string name="#2080FF:firmware">ONYX/TabBoox/TabBoox:13/TKQ1.230615.001/GV2.029.SQ83A:user/release-keys</string>
+    <string name="#80E0FF:firmware">ONYX/TabBoox/TabBoox:13/TKQ1.230615.001/GV2.029.SQ83A:user/release-keys</string>
+    <string name="#B0E0FF:firmware">ONYX/TabBoox/TabBoox:13/TKQ1.230615.001/GV2.029.SQ83A:user/release-keys</string>
+    <string name="#202020:firmware">ONYX/TabBoox/TabBoox:13/TKQ1.230615.001/GV2.029.SQ83A:user/release-keys</string>
+    <string name="#FF80FF:firmware">ONYX/TabBoox/TabBoox:13/TKQ1.230615.001/GV2.029.SQ83A:user/release-keys</string>
+    <long name="#FF80FF:time" value="1790235649368" />
+    <long name="#315F88:time" value="1790235456650" />
+    <string name="#80B0FF:firmware">ONYX/TabBoox/TabBoox:13/TKQ1.230615.001/GV2.029.SQ83A:user/release-keys</string>
+    <string name="#2050FF:firmware">ONYX/TabBoox/TabBoox:13/TKQ1.230615.001/GV2.029.SQ83A:user/release-keys</string>
+    <string name="#FF8080">invisible</string>
+    <long name="#E0B0FF:time" value="1790235598763" />
+    <long name="#5080FF:time" value="1790235543537" />
+    <long name="#2080FF:time" value="1790235529613" />
+    <string name="#FF8000">visible</string>
+    <string name="#2020FF:firmware">ONYX/TabBoox/TabBoox:13/TKQ1.230615.001/GV2.029.SQ83A:user/release-keys</string>
+    <string name="#B050FF">visible</string>
+    <long name="#000000:time" value="1790235442840" />
+    <string name="#E050FF">visible</string>
+    <long name="#9CBBD6:time" value="1790235450263" />
+    <string name="#FF0000">visible</string>
+    <string name="#00FF00">visible</string>
+    <string name="#80B0FF">invisible</string>
+    <string name="#E0E0FF">invisible</string>
+    <string name="#6F9EC5:firmware">ONYX/TabBoox/TabBoox:13/TKQ1.230615.001/GV2.029.SQ83A:user/release-keys</string>
+    <long name="#0000FF:time" value="1790235471223" />
+    <string name="#FF00FF:firmware">ONYX/TabBoox/TabBoox:13/TKQ1.230615.001/GV2.029.SQ83A:user/release-keys</string>
+    <string name="#FFFF00">visible</string>
+    <long name="#00FFFF:time" value="1790235474096" />
+    <long name="#008000:time" value="1790235607711" />
+    <long name="#FF8080:time" value="1790235646724" />
+    <string name="#00FF00:firmware">ONYX/TabBoox/TabBoox:13/TKQ1.230615.001/GV2.029.SQ83A:user/release-keys</string>
+    <long name="#800000:time" value="1790235621110" />
+    <string name="#E050FF:firmware">ONYX/TabBoox/TabBoox:13/TKQ1.230615.001/GV2.029.SQ83A:user/release-keys</string>
+    <long name="#E080FF:time" value="1790235593802" />
+    <long name="#5050FF:time" value="1790235540865" />
+    <string name="#202020">visible</string>
+    <long name="#B0E0FF:time" value="1790235582444" />
+    <long name="#80FF00:time" value="1790235631046" />
+    <string name="#80FFFF">invisible</string>
+    <string name="#C0C0C0">visible</string>
+    <string name="#E020FF">visible</string>
+    <string name="#8020FF">visible</string>
+    <long name="#80B0FF:time" value="1790235562934" />
+    <long name="#202020:time" value="1790235496090" />
+    <string name="#E020FF:firmware">ONYX/TabBoox/TabBoox:13/TKQ1.230615.001/GV2.029.SQ83A:user/release-keys</string>
+    <long name="#C0C0C0:time" value="1790235512439" />
+    <long name="#80FFFF:time" value="1790235638179" />
+    <string name="#B0B0FF">invisible</string>
+    <string name="#6F9EC5">visible</string>
+    <string name="#404040">visible</string>
+    <long name="#404040:time" value="1790235499512" />
+    <long name="#000080:time" value="1790235604187" />
+    <string name="#E080FF:firmware">ONYX/TabBoox/TabBoox:13/TKQ1.230615.001/GV2.029.SQ83A:user/release-keys</string>
+    <string name="#E0B0FF">invisible</string>
+    <string name="#606060:firmware">ONYX/TabBoox/TabBoox:13/TKQ1.230615.001/GV2.029.SQ83A:user/release-keys</string>
+    <long name="#00FF80:time" value="1790235618333" />
+    <string name="#80E0FF">invisible</string>
+    <string name="#8050FF">visible</string>
+    <long name="#B020FF:time" value="1790235568669" />
+    <string name="#FFFF80">invisible</string>
+    <string name="#E0E0E0">visible</string>
+    <string name="#F8F8F8:firmware">ONYX/TabBoox/TabBoox:13/TKQ1.230615.001/GV2.029.SQ83A:user/release-keys</string>
+    <string name="#0080FF">visible</string>
+    <string name="#FF80FF">invisible</string>
+    <int name="position" value="62" />
+    <long name="#0080FF:time" value="1790235613455" />
+    <string name="#00FF80">visible</string>
+    <string name="#C7D8E8:firmware">ONYX/TabBoox/TabBoox:13/TKQ1.230615.001/GV2.029.SQ83A:user/release-keys</string>
+    <string name="#FF00FF">visible</string>
+    <long name="#20B0FF:time" value="1790235532503" />
+    <string name="#0000FF">visible</string>
+    <string name="#C0C0C0:firmware">ONYX/TabBoox/TabBoox:13/TKQ1.230615.001/GV2.029.SQ83A:user/release-keys</string>
+    <long name="#8000FF:time" value="1790235626191" />
+    <string name="#50B0FF">visible</string>
+    <long name="#606060:time" value="1790235502696" />
+    <string name="#000080:firmware">ONYX/TabBoox/TabBoox:13/TKQ1.230615.001/GV2.029.SQ83A:user/release-keys</string>
+    <long name="#800080:time" value="1790235623831" />
+    <string name="#8050FF:firmware">ONYX/TabBoox/TabBoox:13/TKQ1.230615.001/GV2.029.SQ83A:user/release-keys</string>
+    <long name="#5020FF:time" value="1790235538124" />
+    <string name="#000080">visible</string>
+    <string name="#FFFF80:firmware">ONYX/TabBoox/TabBoox:13/TKQ1.230615.001/GV2.029.SQ83A:user/release-keys</string>
+    <string name="#C7D8E8">invisible</string>
+    <string name="#FFFFFF">invisible</string>
+    <string name="#008000:firmware">ONYX/TabBoox/TabBoox:13/TKQ1.230615.001/GV2.029.SQ83A:user/release-keys</string>
+    <string name="#606060">visible</string>
+    <string name="#8020FF:firmware">ONYX/TabBoox/TabBoox:13/TKQ1.230615.001/GV2.029.SQ83A:user/release-keys</string>
+    <string name="#315F88:firmware">ONYX/TabBoox/TabBoox:13/TKQ1.230615.001/GV2.029.SQ83A:user/release-keys</string>
+    <string name="#20E0FF:firmware">ONYX/TabBoox/TabBoox:13/TKQ1.230615.001/GV2.029.SQ83A:user/release-keys</string>
+    <string name="#8000FF:firmware">ONYX/TabBoox/TabBoox:13/TKQ1.230615.001/GV2.029.SQ83A:user/release-keys</string>
+    <long name="#6F9EC5:time" value="1790235453673" />
+    <string name="#E0E0FF:firmware">ONYX/TabBoox/TabBoox:13/TKQ1.230615.001/GV2.029.SQ83A:user/release-keys</string>
+    <long name="#808000:time" value="1790235628606" />
+    <long name="#2020FF:time" value="1790235521290" />
+    <string name="#5020FF">visible</string>
+    <long name="#B080FF:time" value="1790235574324" />
+    <long name="#008080:time" value="1790235610444" />
+    <string name="#404040:firmware">ONYX/TabBoox/TabBoox:13/TKQ1.230615.001/GV2.029.SQ83A:user/release-keys</string>
+    <string name="#E0B0FF:firmware">ONYX/TabBoox/TabBoox:13/TKQ1.230615.001/GV2.029.SQ83A:user/release-keys</string>
+    <long name="#FF8000:time" value="1790235644024" />
+    <string name="#80FF80:firmware">ONYX/TabBoox/TabBoox:13/TKQ1.230615.001/GV2.029.SQ83A:user/release-keys</string>
+    <string name="#00FFFF:firmware">ONYX/TabBoox/TabBoox:13/TKQ1.230615.001/GV2.029.SQ83A:user/release-keys</string>
+    <long name="#F8F8F8:time" value="1790235518043" />
+    <long name="#20E0FF:time" value="1790235535405" />
+    <long name="#C7D8E8:time" value="1790235447128" />
+    <string name="#000000:firmware">ONYX/TabBoox/TabBoox:13/TKQ1.230615.001/GV2.029.SQ83A:user/release-keys</string>
+    <long name="#B050FF:time" value="1790235571401" />
+    <long name="#FF0080:time" value="1790235640936" />
+    <long name="#80E0FF:time" value="1790235565611" />
+    <long name="#808080:time" value="1790235505996" />
+    <long name="#00FF00:time" value="1790235479196" />
+    <string name="#008080">visible</string>
+    <string name="#A0A0A0">visible</string>
+    <string name="#FFFF00:firmware">ONYX/TabBoox/TabBoox:13/TKQ1.230615.001/GV2.029.SQ83A:user/release-keys</string>
+    <long name="#E0E0E0:time" value="1790235515330" />
+    <string name="#008000">visible</string>
+    <long name="#E050FF:time" value="1790235590549" />
+    <long name="#566B78:time" value="1790235459566" />
+    <string name="#000000">visible</string>
+    <string name="#315F88">visible</string>
+    <long name="#50E0FF:time" value="1790235549444" />
+    <string name="#00FF80:firmware">ONYX/TabBoox/TabBoox:13/TKQ1.230615.001/GV2.029.SQ83A:user/release-keys</string>
+</map>

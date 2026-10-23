@@ -1,0 +1,44 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+    <uses-permission tools:node="removeAll" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" tools:node="remove" />
+    <uses-feature android:name="android.hardware.touchscreen" android:required="false" />
+    <application android:name=".PenApplication" android:label="SadPaint"
+        android:icon="@mipmap/ic_launcher" android:roundIcon="@mipmap/ic_launcher_round"
+        android:theme="@android:style/Theme.Material.Light.NoActionBar"
+        android:allowBackup="false" android:supportsRtl="true" android:largeHeap="true"
+        tools:replace="android:allowBackup,android:label,android:icon,android:roundIcon">
+        <activity android:name=".VisibilityActivity" android:exported="false"
+            android:configChanges="orientation|screenSize" />
+        <activity android:name=".PreviewActivity" android:exported="false"
+            android:configChanges="orientation|screenSize" />
+        <activity android:name=".GridTestActivity" android:exported="true"
+            android:configChanges="orientation|screenSize" />
+        <activity android:name=".SweepActivity" android:exported="true"
+            android:configChanges="orientation|screenSize" />
+        <activity android:name=".GradientActivity" android:exported="true"
+            android:configChanges="orientation|screenSize" />
+        <activity android:name=".CmykActivity" android:exported="true"
+            android:configChanges="orientation|screenSize" />
+        <activity android:name=".PaletteBuilderActivity" android:exported="true"
+            android:theme="@android:style/Theme.Material.Light.Dialog.NoActionBar"
+            android:configChanges="orientation|screenSize" />
+        <activity android:name=".GrayPreviewActivity" android:exported="true"
+            android:configChanges="orientation|screenSize" />
+        <activity android:name=".PicksActivity" android:exported="true"
+            android:configChanges="orientation|screenSize" />
+        <activity android:name=".WheelActivity" android:exported="true"
+            android:configChanges="orientation|screenSize" />
+        <activity android:name=".CalibrateActivity" android:exported="true"
+            android:configChanges="orientation|screenSize" />
+        <activity android:name=".MainActivity" android:exported="true"
+            android:configChanges="orientation|screenSize" />
+        <activity android:name=".PaintActivity" android:exported="true"
+            android:configChanges="orientation|screenSize" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+</manifest>
